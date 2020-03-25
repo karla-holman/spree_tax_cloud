@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'spree', github: 'spree/spree', branch: 'master'
+# gem 'spree', :path => "/Users/karlaholman/spree_jcauto"
+gem 'spree', github: 'karla-holman/spree_jcauto'
 gem 'rails-controller-testing'
 
 gemspec
